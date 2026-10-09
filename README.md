@@ -11,7 +11,22 @@ Repositorio del equipo NN para las Prácticas 1–6 y el proyecto integrador.
 
 ## Fichas técnicas de hardware
 
-(Una tabla por integrante; ver Práctica 1, Parte B.)
+González González Alan
+|Campo 					|Valor
+|Modelo de CPU	AMD Ryzen 7 6800H with Radeon Graphics
+|Núcleos físicos / Hilos lógicos	|8 / 16
+|Frecuencia Base / Turbo	3.20Ghz / 4.7GHz
+|Caché L1d / L2 / L3	L1d: 256 KiB (8 instances)
+|L2: 4 MiB (8 instances)
+|L3: 16 MiB (1 instance)
+|Memoria RAM	7.4Gb
+|Extensiones Vectoriales	Avx avx2 fma sse4_2
+|Sistema operativo y kernel	Ubuntu 24.04 en WSL2, kernel 6.6
+|Compilador	
+|Python / NumPy / BLAS	
+|GPU (Si hay)	
+|Condiciones	
+
 
 ## Convenciones
 
