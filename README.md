@@ -6,7 +6,7 @@ Repositorio del equipo 8 para las Prácticas 1–6 y el proyecto integrador.
 
 | Nombre | Boleta | Usuario GitHub |
 | :--- | :--- | :--- |
-| Flores López Mariana | 2024630830 | marianafloreslopez99 |
+| Flores López Mariana | 2024630852 | marianafloreslopez99 |
 | Gonzalez Gonzalez Alan | 2024630830 | Alan-GG117 |
 | Pérez Guzmán Shaiel Aylin | 2024630673 |ayliinperezg01 |
 
