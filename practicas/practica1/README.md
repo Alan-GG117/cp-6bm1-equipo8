@@ -1,6 +1,6 @@
 # Práctica 1 — Plataformas y herramientas
 
-Entrega: jueves 10 de septiembre de 2026, 10:30 (etiqueta `practica1`).
+Entrega: jueves 08 de octubre de 2026, 10:30 (etiqueta `practica1`).
 
 ## Reproducir todo (dos comandos)
 
