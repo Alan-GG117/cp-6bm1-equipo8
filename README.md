@@ -1,4 +1,4 @@
-# cp-6bm1-equipoNN — Cómputo Paralelo · 6BM1 · 27/1
+# cp-6bm1-equipo8 — Cómputo Paralelo · 6BM1 · 27/1
 
 Repositorio del equipo 8 para las Prácticas 1–6 y el proyecto integrador.
 
@@ -12,6 +12,7 @@ Repositorio del equipo 8 para las Prácticas 1–6 y el proyecto integrador.
 
 ## Fichas técnicas de hardware
 
+### González González Alan
 | Campo | Valor |
 | :--- | :--- |
 | Modelo de CPU | AMD Ryzen 7 6800H with Radeon Graphics |
